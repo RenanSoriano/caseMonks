@@ -70,7 +70,3 @@ landing-page/
 ├── vite.config.js       # Configuração do Vite
 ```
 
-
-## ✨ Autor
-
-Desenvolvido como parte do case técnico para WebMonks.
